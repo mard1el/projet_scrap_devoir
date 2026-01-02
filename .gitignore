@@ -1,10 +1,21 @@
-# Python-generated files
+# --- Python / Environnement ---
+.venv/
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.py[cod]
+*$py.class
 
-# Virtual environments
-.venv
+# --- Données (Scraping) ---
+# On ignore les fichiers de données brutes car ils peuvent être lourds
+*.csv
+*.json
+*.sqlite
+
+# --- Modèles de Prédiction ---
+# Les modèles entraînés (.pkl, .joblib) sont souvent volumineux
+*.pkl
+*.joblib
+*.h5
+
+# --- Configuration / Secret ---
+.env
+.uv
