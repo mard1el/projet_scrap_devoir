@@ -80,5 +80,25 @@ def _(mo, run_scraping):
     return
 
 
+@app.cell
+def _():
+    import requests
+    import marimo as mo
+
+    url = "https://data.ademe.fr/data-fair/api/v1/datasets/ademe-car-labelling/lines"
+    params = {
+        "size": 5, # On limite à 5 pour le test
+        "select": "lib_mod,cod_nat,puiss_admin_98,cons_mixte,co2_mixte" # On choisit nos colonnes
+    }
+
+    response = requests.get(url, params=params)
+    data = response.json()
+
+    # Affichage du résultat
+    mo.md(f"Statut de la requête : {response.status_code}")
+    mo.ui.table(data['results'])
+    return (mo,)
+
+
 if __name__ == "__main__":
     app.run()
