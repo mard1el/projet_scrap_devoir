@@ -14,7 +14,7 @@ if not os.path.exists(file_path):
 df = pd.read_csv(file_path, sep=";")
 
 #titre et description
-st.title("🏆 Encyclopédie des Champions")
+st.title(" Encyclopédie des Champions")
 st.markdown("Explorez les statistiques, les compétences et l'histoire des champions.")
 
 # filtrage des champions

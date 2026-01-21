@@ -4,7 +4,7 @@ import os
 
 st.set_page_config(page_title="Base de Données", page_icon="📊", layout="wide")
 
-st.title("📚 La Bibliothèque d'Objets")
+st.title("La Bibliothèque d'Objets")
 st.write("Voici les données brutes utilisées pour entraîner le modèle.")
 
 fichier_csv = "présentation_objets_complets.csv" 
@@ -30,7 +30,6 @@ if os.path.exists(fichier_csv):
     else:
         df_affiche = df
 
-.
 
     # Préparation et Affichage du tableau
 

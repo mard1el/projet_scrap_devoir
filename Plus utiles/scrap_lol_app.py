@@ -84,7 +84,7 @@ def _(filtre_classe, mo, pl, recherche, tableau_champ):
 
     # 3. Affichage final
     mo.vstack([
-        mo.md(f"# 🛡️ Database ({len(df_final)} champions trouvés)"),
+        mo.md(f"#  Database ({len(df_final)} champions trouvés)"),
         df_final
     ])
     return
