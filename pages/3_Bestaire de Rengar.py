@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import plotly.graph_objects as go
 
+
 st.set_page_config(page_title="Champions LoL", page_icon="🏆", layout="wide")
 
 # Chargement
@@ -170,3 +171,6 @@ with tab2:
 
     else:
         st.warning("Aucun champion ne correspond aux filtres actuels.")
+        
+        ##Ajout des voisins##
+        
