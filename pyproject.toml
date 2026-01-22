@@ -1,0 +1,18 @@
+[project]
+name = "projet-scrap-devoir"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "joblib>=1.5.3",
+    "scikit-learn",
+    "requests",
+    "polars",
+    "lazypredict",
+    "matplotlib",
+    "pandas",
+    "streamlit",
+    "xgboost",
+    "plotly",
+]
