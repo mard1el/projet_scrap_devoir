@@ -37,19 +37,19 @@ def load_model():
 data = load_model()
 
 if data is None:
-    st.error("❌ Le fichier 'lol_champ_model.pkl' est introuvable.")
+    st.error("Le fichier 'lol_champ_model.pkl' est introuvable.")
     st.stop()
 
 model = data["pipeline"]
 features = data["features"]
 classes_noms = model.classes_ 
 
-st.title("🔮 Le Choixpeau Magique de LoL")
-st.markdown("Entrez les statistiques, et l'IA devinera la classe du champion.")
+st.title("Le Labo de singed")
+st.markdown("Entrez les statistiques, et découvrez la classe adaptée au champion.")
 
 #inputs
 with st.form("form_prediction"):
-    st.write("### 🎚️ Ajustez les statistiques")
+    st.write("###  Ajustez les statistiques")
     
     user_inputs = {}
     cols = st.columns(3) 

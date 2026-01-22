@@ -1,0 +1,156 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.18.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "TIHL",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bLJK",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "xMyB",
+      "code_hash": "01fd6d8658947a39ad47d4d5f053c74c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">On va tenter de mettre le fichier de bookstoscrap sous forme d'app sous marim</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aCEh",
+      "code_hash": "5f093d91e28785796374be9695851be0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">importation</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "EvdL",
+      "code_hash": "dd0b3436dd693cf5bb61ee981e8c9e6e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "CmcW",
+      "code_hash": "cadc48f6324ba12dd09fa50d2599dcd3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">choix du nombre de pages </span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "kwgn",
+      "code_hash": "6604d5e06f1420e03c7936260ceacd72",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "hNHg",
+      "code_hash": "2572ea1f3512277fb40646f4014959c5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"choix-du-nombre-de-pages\">Choix du nombre de pages :</h3></span><marimo-ui-element object-id='kwgn-0' random-id='cfcc42fd-1b04-1cfa-052f-1cd6b2ffb947'><marimo-slider data-initial-value='5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Nombre de pages \u00e0 scraper&lt;/span&gt;&lt;/span&gt;&quot;' data-start='1' data-stop='50' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"le-nombre-de-pages-est-de-1\">Le nombre de pages est de : 1</h2></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "opyp",
+      "code_hash": "5800462bee59c103ec26e22561c242f0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">on commence</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "KrYC",
+      "code_hash": "13af4e8bf2639686b6e6378b19e3aa04",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "QuNB",
+      "code_hash": "e7db694fd30c6ea3cc750a36f331188b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">cellule d'affichage </span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "HwLH",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

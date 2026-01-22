@@ -1,0 +1,251 @@
+ID;Name;Price;Sell_Price;AD;AP;HP;Armor;MR;Mana;AttackSpeed;MoveSpeed;CritChance;tag1;tag2;tag3;AbilityHaste;Lethality;MagicPen;Omnivamp;LifeSteal;ImageURL
+1001;Boots;300;210;0;0;0;0;0;0;0.0;25;0.0;Boots;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1001.png
+1004;Faerie Charm;200;140;0;0;0;0;0;0;0.0;0;0.0;ManaRegen;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1004.png
+1006;Rejuvenation Bead;300;120;0;0;0;0;0;0;0.0;0;0.0;HealthRegen;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1006.png
+1011;Giant's Belt;900;630;0;0;350;0;0;0;0.0;0;0.0;Health;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1011.png
+1018;Cloak of Agility;600;420;0;0;0;0;0;0;0.0;0;0.15;CriticalStrike;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1018.png
+1026;Blasting Wand;850;595;0;45;0;0;0;0;0.0;0;0.0;SpellDamage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1026.png
+1027;Sapphire Crystal;300;210;0;0;0;0;0;300;0.0;0;0.0;Mana;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1027.png
+1028;Ruby Crystal;400;280;0;0;150;0;0;0;0.0;0;0.0;Health;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1028.png
+1029;Cloth Armor;300;210;0;0;0;15;0;0;0.0;0;0.0;Armor;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1029.png
+1031;Chain Vest;800;560;0;0;0;40;0;0;0.0;0;0.0;Armor;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1031.png
+1033;Null-Magic Mantle;400;280;0;0;0;0;20;0;0.0;0;0.0;SpellBlock;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1033.png
+1036;Long Sword;350;245;10;0;0;0;0;0;0.0;0;0.0;Damage;Lane;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1036.png
+1037;Pickaxe;875;613;25;0;0;0;0;0;0.0;0;0.0;Damage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1037.png
+1038;B. F. Sword;1300;910;40;0;0;0;0;0;0.0;0;0.0;Damage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1038.png
+1042;Dagger;250;175;0;0;0;0;0;0;0.1;0;0.0;AttackSpeed;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1042.png
+1043;Recurve Bow;700;490;0;0;0;0;0;0;0.15;0;0.0;AttackSpeed;OnHit;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1043.png
+1052;Amplifying Tome;400;280;0;20;0;0;0;0;0.0;0;0.0;SpellDamage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1052.png
+1053;Vampiric Scepter;900;630;15;0;0;0;0;0;0.0;0;0.0;Damage;LifeSteal;None;0.0;0.0;0.0;0.0;7.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1053.png
+1054;Doran's Shield;450;180;0;0;110;0;0;0;0.0;0;0.0;Health;HealthRegen;Lane;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1054.png
+1055;Doran's Blade;450;180;10;0;80;0;0;0;0.0;0;0.0;Health;Damage;LifeSteal;0.0;0.0;0.0;5.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1055.png
+1056;Doran's Ring;400;160;0;18;90;0;0;0;0.0;0;0.0;Health;Lane;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1056.png
+1057;Negatron Cloak;850;595;0;0;0;0;45;0;0.0;0;0.0;SpellBlock;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1057.png
+1058;Needlessly Large Rod;1200;840;0;65;0;0;0;0;0.0;0;0.0;SpellDamage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1058.png
+1082;Dark Seal;350;140;0;15;50;0;0;0;0.0;0;0.0;Health;SpellDamage;Lane;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1082.png
+1083;Cull;450;180;7;0;0;0;0;0;0.0;0;0.0;Damage;OnHit;Lane;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1083.png
+1101;Scorchclaw Pup;450;0;0;0;0;0;0;0;0.0;0;0.0;Jungle;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1101.png
+1102;Gustwalker Hatchling;450;0;0;0;0;0;0;0;0.0;0;0.0;Jungle;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1102.png
+1103;Mosstomper Seedling;450;0;0;0;0;0;0;0;0.0;0;0.0;Jungle;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1103.png
+1105;Mosstomper Seedling;450;180;0;0;0;0;0;0;0.0;0;0.0;Jungle;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1105.png
+1106;Gustwalker Hatchling;450;180;0;0;0;0;0;0;0.0;0;0.0;Jungle;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1106.png
+1107;Scorchclaw Pup;450;180;0;0;0;0;0;0;0.0;0;0.0;Jungle;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/1107.png
+2003;Health Potion;50;20;0;0;0;0;0;0;0.0;0;0.0;HealthRegen;Consumable;Lane;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2003.png
+2019;Steel Sigil;1100;770;15;0;0;30;0;0;0.0;0;0.0;Armor;Damage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2019.png
+2020;The Brutalizer;1337;936;25;0;0;0;0;0;0.0;0;0.0;Damage;CooldownReduction;ArmorPenetration;10.0;5.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2020.png
+2021;Tunneler;1150;805;15;0;250;0;0;0;0.0;0;0.0;Health;Damage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2021.png
+2022;Glowing Mote;250;175;0;0;0;0;0;0;0.0;0;0.0;CooldownReduction;None;None;5.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2022.png
+2031;Refillable Potion;150;60;0;0;0;0;0;0;0.0;0;0.0;HealthRegen;Consumable;Active;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2031.png
+2051;Guardian's Horn;950;665;0;0;150;0;0;0;0.0;0;0.0;Health;HealthRegen;Lane;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2051.png
+2055;Control Ward;75;30;0;0;0;0;0;0;0.0;0;0.0;Consumable;Lane;Stealth;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2055.png
+2065;Shurelya's Battlesong;2200;1540;0;50;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;Active;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2065.png
+2138;Elixir of Iron;500;200;0;0;0;0;0;0;0.0;0;0.0;Health;Consumable;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2138.png
+2139;Elixir of Sorcery;500;200;0;0;0;0;0;0;0.0;0;0.0;Consumable;ManaRegen;SpellDamage;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2139.png
+2140;Elixir of Wrath;500;200;0;0;0;0;0;0;0.0;0;0.0;Consumable;Damage;LifeSteal;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2140.png
+2141;Cappa Juice;300;300;0;0;0;0;0;0;0.0;0;0.0;Damage;Consumable;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2141.png
+2420;Seeker's Armguard;1600;640;0;40;0;25;0;0;0.0;0;0.0;Armor;SpellDamage;Active;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2420.png
+2421;Shattered Armguard;1600;640;0;40;0;25;0;0;0.0;0;0.0;None;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2421.png
+2501;Overlord's Bloodmail;3300;2310;30;0;550;0;0;0;0.0;0;0.0;Health;Damage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2501.png
+2502;Unending Despair;2800;1960;0;0;400;50;0;0;0.0;0;0.0;Health;Armor;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2502.png
+2503;Blackfire Torch;2800;1960;0;80;0;0;0;600;0.0;0;0.0;SpellDamage;Mana;CooldownReduction;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2503.png
+2504;Kaenic Rookern;2900;2030;0;0;400;0;80;0;0.0;0;0.0;Health;SpellBlock;HealthRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2504.png
+2508;Fated Ashes;900;630;0;30;0;0;0;0;0.0;0;0.0;SpellDamage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2508.png
+2510;Dusk and Dawn;3100;2170;0;70;300;0;0;0;0.25;0;0.0;Health;AttackSpeed;SpellDamage;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2510.png
+2512;Fiendhunter Bolts;2650;1855;0;0;0;0;0;0;0.4;0;0.25;CriticalStrike;AttackSpeed;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2512.png
+2517;Endless Hunger;3000;2100;60;0;0;0;0;0;0.0;0;0.0;Damage;LifeSteal;SpellVamp;0.0;0.0;0.0;5.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2517.png
+2520;Bastionbreaker;3200;2240;55;0;0;0;0;0;0.0;0;0.0;Damage;ArmorPenetration;AbilityHaste;15.0;22.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2520.png
+2522;Actualizer;3100;2170;0;90;0;0;0;300;0.0;0;0.0;SpellDamage;Mana;AbilityHaste;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2522.png
+2523;Hexoptics C44;2800;1960;50;0;0;0;0;0;0.0;0;0.25;Damage;CriticalStrike;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2523.png
+2524;Bandlepipes;2000;1400;0;0;200;20;20;0;0.0;0;0.0;Health;SpellBlock;Armor;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2524.png
+2525;Protoplasm Harness;2500;1750;0;0;600;0;0;0;0.0;0;0.0;Health;NonbootsMovement;Tenacity;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2525.png
+2526;Whispering Circlet;2250;1575;0;0;200;0;0;300;0.0;0;0.0;Health;Mana;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/2526.png
+3002;Trailblazer;2400;1680;0;0;250;40;0;0;0.0;0;0.0;Health;Armor;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3002.png
+3003;Archangel's Staff;2900;2030;0;70;0;0;0;600;0.0;0;0.0;SpellDamage;Mana;AbilityHaste;25.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3003.png
+3004;Manamune;2900;2030;35;0;0;0;0;500;0.0;0;0.0;Damage;Mana;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3004.png
+3006;Berserker's Greaves;1100;770;0;0;0;0;0;0;0.25;45;0.0;AttackSpeed;Boots;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3006.png
+3009;Boots of Swiftness;1000;700;0;0;0;0;0;0;0.0;55;0.0;Boots;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3009.png
+3020;Sorcerer's Shoes;1100;770;0;0;0;0;0;0;0.0;45;0.0;Boots;MagicPenetration;None;0.0;0.0;12.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3020.png
+3024;Glacial Buckler;900;630;0;0;0;25;0;300;0.0;0;0.0;Armor;Mana;CooldownReduction;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3024.png
+3026;Guardian Angel;3200;1280;55;0;0;45;0;0;0.0;0;0.0;Armor;Damage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3026.png
+3031;Infinity Edge;3500;2450;75;0;0;0;0;0;0.0;0;0.25;CriticalStrike;Damage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3031.png
+3032;Yun Tal Wildarrows;3100;2170;50;0;0;0;0;0;0.4;0;0.0;Damage;CriticalStrike;AttackSpeed;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3032.png
+3033;Mortal Reminder;3000;2100;35;0;0;0;0;0;0.0;0;0.25;Damage;CriticalStrike;ArmorPenetration;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3033.png
+3035;Last Whisper;1450;1015;20;0;0;0;0;0;0.0;0;0.0;ArmorPenetration;Damage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3035.png
+3036;Lord Dominik's Regards;3300;2310;35;0;0;0;0;0;0.0;0;0.25;Damage;CriticalStrike;ArmorPenetration;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3036.png
+3041;Mejai's Soulstealer;1500;1050;0;20;100;0;0;0;0.0;0;0.0;Health;SpellDamage;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3041.png
+3044;Phage;1100;770;15;0;200;0;0;0;0.0;0;0.0;Health;Damage;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3044.png
+3046;Phantom Dancer;2650;1855;0;0;0;0;0;0;0.65;0;0.25;CriticalStrike;AttackSpeed;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3046.png
+3047;Plated Steelcaps;1200;840;0;0;0;25;0;0;0.0;45;0.0;Armor;Boots;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3047.png
+3050;Zeke's Convergence;2200;1540;0;0;300;25;25;0;0.0;0;0.0;Health;SpellBlock;Armor;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3050.png
+3051;Hearthbound Axe;1200;840;20;0;0;0;0;0;0.2;0;0.0;Damage;AttackSpeed;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3051.png
+3053;Sterak's Gage;3200;2240;0;0;400;0;0;0;0.0;0;0.0;Health;Damage;Tenacity;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3053.png
+3057;Sheen;900;630;0;0;0;0;0;0;0.0;0;0.0;OnHit;AbilityHaste;None;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3057.png
+3065;Spirit Visage;2700;1890;0;0;400;0;50;0;0.0;0;0.0;Health;SpellBlock;HealthRegen;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3065.png
+3066;Winged Moonplate;800;560;0;0;200;0;0;0;0.0;0;0.0;Health;NonbootsMovement;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3066.png
+3067;Kindlegem;800;560;0;0;200;0;0;0;0.0;0;0.0;Health;CooldownReduction;AbilityHaste;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3067.png
+3068;Sunfire Aegis;2700;1890;0;0;350;50;0;0;0.0;0;0.0;Health;Armor;Aura;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3068.png
+3070;Tear of the Goddess;400;280;0;0;0;0;0;240;0.0;0;0.0;Mana;ManaRegen;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3070.png
+3071;Black Cleaver;3000;2100;40;0;400;0;0;0;0.0;0;0.0;Health;Damage;CooldownReduction;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3071.png
+3072;Bloodthirster;3400;2380;80;0;0;0;0;0;0.0;0;0.0;Damage;LifeSteal;None;0.0;0.0;0.0;0.0;15.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3072.png
+3073;Experimental Hexplate;3000;2100;40;0;450;0;0;0;0.2;0;0.0;Health;Damage;AttackSpeed;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3073.png
+3074;Ravenous Hydra;3300;2310;65;0;0;0;0;0;0.0;0;0.0;Damage;LifeSteal;CooldownReduction;15.0;0.0;0.0;0.0;12.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3074.png
+3075;Thornmail;2450;1715;0;0;150;75;0;0;0.0;0;0.0;Health;Armor;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3075.png
+3076;Bramble Vest;800;560;0;0;0;30;0;0;0.0;0;0.0;Armor;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3076.png
+3077;Tiamat;1200;840;20;0;0;0;0;0;0.0;0;0.0;Damage;OnHit;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3077.png
+3078;Trinity Force;3333;2333;36;0;333;0;0;0;0.3;0;0.0;Health;Damage;AttackSpeed;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3078.png
+3082;Warden's Mail;1000;700;0;0;0;40;0;0;0.0;0;0.0;Armor;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3082.png
+3083;Warmog's Armor;3100;2170;0;0;1000;0;0;0;0.0;0;0.0;Health;HealthRegen;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3083.png
+3084;Heartsteel;3000;2100;0;0;900;0;0;0;0.0;0;0.0;Health;HealthRegen;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3084.png
+3085;Runaan's Hurricane;2650;1855;0;0;0;0;0;0;0.4;0;0.25;CriticalStrike;AttackSpeed;OnHit;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3085.png
+3086;Zeal;1200;840;0;0;0;0;0;0;0.15;0;0.15;CriticalStrike;AttackSpeed;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3086.png
+3087;Statikk Shiv;2700;1890;45;0;0;0;0;0;0.3;0;0.0;Damage;AttackSpeed;OnHit;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3087.png
+3089;Rabadon's Deathcap;3500;2450;0;130;0;0;0;0;0.0;0;0.0;SpellDamage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3089.png
+3091;Wit's End;2800;1960;0;0;0;0;45;0;0.5;0;0.0;SpellBlock;AttackSpeed;OnHit;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3091.png
+3094;Rapid Firecannon;2650;1855;0;0;0;0;0;0;0.35;0;0.25;CriticalStrike;AttackSpeed;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3094.png
+3097;Stormrazor;3200;2240;50;0;0;0;0;0;0.2;0;0.25;Damage;CriticalStrike;AttackSpeed;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3097.png
+3100;Lich Bane;2900;2030;0;100;0;0;0;0;0.0;0;0.0;SpellDamage;OnHit;NonbootsMovement;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3100.png
+3102;Banshee's Veil;3000;2100;0;105;0;0;40;0;0.0;0;0.0;SpellBlock;SpellDamage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3102.png
+3107;Redemption;2300;1610;0;30;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3107.png
+3108;Fiendish Codex;850;595;0;25;0;0;0;0;0.0;0;0.0;SpellDamage;CooldownReduction;AbilityHaste;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3108.png
+3109;Knight's Vow;2300;1610;0;0;200;40;0;0;0.0;0;0.0;Health;HealthRegen;Armor;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3109.png
+3110;Frozen Heart;2500;1750;0;0;0;75;0;400;0.0;0;0.0;Armor;Mana;Aura;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3110.png
+3111;Mercury's Treads;1250;875;0;0;0;0;20;0;0.0;45;0.0;Boots;SpellBlock;Tenacity;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3111.png
+3112;Guardian's Orb;950;665;0;50;150;0;0;0;0.0;0;0.0;Health;SpellDamage;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3112.png
+3113;Aether Wisp;900;630;0;30;0;0;0;0;0.0;0;0.0;NonbootsMovement;SpellDamage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3113.png
+3114;Forbidden Idol;600;420;0;0;0;0;0;0;0.0;0;0.0;ManaRegen;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3114.png
+3115;Nashor's Tooth;2900;2030;0;80;0;0;0;0;0.5;0;0.0;AttackSpeed;SpellDamage;OnHit;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3115.png
+3116;Rylai's Crystal Scepter;2600;1820;0;65;400;0;0;0;0.0;0;0.0;Health;SpellDamage;Slow;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3116.png
+3118;Malignance;2700;1890;0;90;0;0;0;600;0.0;0;0.0;SpellDamage;Mana;AbilityHaste;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3118.png
+3119;Winter's Approach;2400;1680;0;0;550;0;0;500;0.0;0;0.0;Health;Mana;AbilityHaste;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3119.png
+3123;Executioner's Calling;800;560;15;0;0;0;0;0;0.0;0;0.0;Damage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3123.png
+3124;Guinsoo's Rageblade;3000;2100;30;30;0;0;0;0;0.25;0;0.0;Damage;AttackSpeed;SpellDamage;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3124.png
+3133;Caulfield's Warhammer;1050;735;20;0;0;0;0;0;0.0;0;0.0;Damage;CooldownReduction;AbilityHaste;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3133.png
+3134;Serrated Dirk;1000;700;20;0;0;0;0;0;0.0;0;0.0;Damage;ArmorPenetration;None;0.0;10.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3134.png
+3135;Void Staff;3000;2100;0;95;0;0;0;0;0.0;0;0.0;MagicPenetration;SpellDamage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3135.png
+3137;Cryptbloom;3000;2100;0;75;0;0;0;0;0.0;0;0.0;SpellDamage;MagicPenetration;AbilityHaste;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3137.png
+3139;Mercurial Scimitar;3200;2240;50;0;0;0;35;0;0.0;0;0.0;SpellBlock;Damage;LifeSteal;0.0;0.0;0.0;0.0;10.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3139.png
+3140;Quicksilver Sash;1300;910;0;0;0;0;30;0;0.0;0;0.0;Active;SpellBlock;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3140.png
+3142;Youmuu's Ghostblade;2800;1960;55;0;0;0;0;0;0.0;0;0.0;Damage;Active;NonbootsMovement;0.0;18.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3142.png
+3143;Randuin's Omen;2700;1890;0;0;350;75;0;0;0.0;0;0.0;Health;Armor;Active;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3143.png
+3144;Scout's Slingshot;600;420;0;0;0;0;0;0;0.2;0;0.0;AttackSpeed;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3144.png
+3145;Hextech Alternator;1100;770;0;45;0;0;0;0;0.0;0;0.0;SpellDamage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3145.png
+3146;Hextech Gunblade;3000;2100;40;80;0;0;0;0;0.0;0;0.0;Damage;LifeSteal;SpellDamage;0.0;0.0;0.0;10.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3146.png
+3147;Haunting Guise;1300;910;0;30;200;0;0;0;0.0;0;0.0;Health;SpellDamage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3147.png
+3152;Hextech Rocketbelt;2650;1855;0;70;300;0;0;0;0.0;0;0.0;Health;SpellDamage;Active;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3152.png
+3153;Blade of The Ruined King;3200;2240;40;0;0;0;0;0;0.25;0;0.0;Damage;AttackSpeed;LifeSteal;0.0;0.0;0.0;0.0;10.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3153.png
+3155;Hexdrinker;1300;910;25;0;0;0;25;0;0.0;0;0.0;Damage;SpellBlock;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3155.png
+3156;Maw of Malmortius;3100;2170;60;0;0;0;40;0;0.0;0;0.0;SpellBlock;Damage;LifeSteal;15.0;0.0;0.0;10.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3156.png
+3157;Zhonya's Hourglass;3250;2275;0;105;0;50;0;0;0.0;0;0.0;Armor;SpellDamage;Active;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3157.png
+3158;Ionian Boots of Lucidity;900;630;0;0;0;0;0;0;0.0;45;0.0;Boots;CooldownReduction;None;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3158.png
+3161;Spear of Shojin;3100;2170;45;0;450;0;0;0;0.0;0;0.0;Health;Damage;AbilityHaste;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3161.png
+3165;Morellonomicon;2850;1995;0;75;350;0;0;0;0.0;0;0.0;Health;SpellDamage;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3165.png
+3170;Swiftmarch;1000;700;0;0;0;0;0;0;0.0;65;0.0;Boots;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3170.png
+3171;Crimson Lucidity;900;630;0;0;0;0;0;0;0.0;45;0.0;CooldownReduction;Boots;None;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3171.png
+3172;Gunmetal Greaves;1100;770;0;0;0;0;0;0;0.4;45;0.0;AttackSpeed;LifeSteal;NonbootsMovement;0.0;0.0;0.0;0.0;5.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3172.png
+3173;Chainlaced Crushers;1250;875;0;0;0;0;30;0;0.0;45;0.0;SpellBlock;Boots;Tenacity;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3173.png
+3174;Armored Advance;1200;840;0;0;0;35;0;0;0.0;45;0.0;Armor;Boots;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3174.png
+3175;Spellslinger's Shoes;1100;770;0;0;0;0;0;0;0.0;45;0.0;Boots;MagicPenetration;None;0.0;0.0;18.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3175.png
+3177;Guardian's Blade;950;665;30;0;150;0;0;0;0.0;0;0.0;Health;Damage;Lane;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3177.png
+3179;Umbral Glaive;2800;1960;60;0;0;0;0;0;0.0;0;0.0;Damage;Vision;CooldownReduction;15.0;18.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3179.png
+3181;Hullbreaker;3000;2100;40;0;500;0;0;0;0.0;0;0.0;Health;Damage;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3181.png
+3184;Guardian's Hammer;950;665;25;0;150;0;0;0;0.0;0;0.0;Health;Damage;LifeSteal;0.0;0.0;0.0;0.0;5.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3184.png
+3190;Locket of the Iron Solari;2200;1540;0;0;200;25;25;0;0.0;0;0.0;Health;SpellBlock;Armor;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3190.png
+3211;Spectre's Cowl;1250;875;0;0;200;0;35;0;0.0;0;0.0;Health;HealthRegen;SpellBlock;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3211.png
+322065;Shurelya's Battlesong;2600;1820;0;65;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;Active;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/322065.png
+3222;Mikael's Blessing;2300;1610;0;0;250;0;0;0;0.0;0;0.0;Health;ManaRegen;Active;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3222.png
+322526;Whispering Circlet;2250;1575;0;0;200;0;0;300;0.0;0;0.0;Health;Mana;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/322526.png
+323002;Trailblazer;2600;1820;0;0;300;45;0;0;0.0;0;0.0;Health;Armor;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323002.png
+323003;Archangel's Staff;2900;2030;0;70;0;0;0;600;0.0;0;0.0;SpellDamage;Mana;AbilityHaste;25.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323003.png
+323004;Manamune;2900;2030;35;0;0;0;0;500;0.0;0;0.0;Damage;Mana;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323004.png
+323050;Zeke's Convergence;2300;1610;0;0;350;30;30;0;0.0;0;0.0;Health;SpellBlock;Armor;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323050.png
+323070;Tear of the Goddess;400;280;0;0;0;0;0;240;0.0;0;0.0;Mana;ManaRegen;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323070.png
+323075;Thornmail;2650;1855;0;0;200;85;0;0;0.0;0;0.0;Health;Armor;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323075.png
+323107;Redemption;2800;1960;0;30;400;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323107.png
+323109;Knight's Vow;2900;2030;0;0;300;50;0;0;0.0;0;0.0;Health;HealthRegen;Armor;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323109.png
+323110;Frozen Heart;2700;1890;0;0;0;75;0;500;0.0;0;0.0;Armor;Mana;Aura;25.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323110.png
+323119;Winter's Approach;2400;1680;0;0;550;0;0;500;0.0;0;0.0;Health;Mana;AbilityHaste;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323119.png
+323190;Locket of the Iron Solari;2600;1820;0;0;250;30;30;0;0.0;0;0.0;Health;SpellBlock;Armor;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323190.png
+323222;Mikael's Blessing;2800;1960;0;0;400;0;0;0;0.0;0;0.0;Health;ManaRegen;Active;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323222.png
+323504;Ardent Censer;2600;1820;0;55;0;0;0;0;0.0;0;0.0;AttackSpeed;SpellDamage;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/323504.png
+324005;Imperial Mandate;2750;1925;0;65;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;CooldownReduction;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/324005.png
+326616;Staff of Flowing Water;2600;1820;0;45;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/326616.png
+326617;Moonstone Renewer;2900;2030;0;35;400;0;0;0;0.0;0;0.0;Health;SpellDamage;ManaRegen;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/326617.png
+326620;Echoes of Helia;2600;1820;0;35;250;0;0;0;0.0;0;0.0;Health;SpellDamage;ManaRegen;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/326620.png
+326621;Dawncore;2900;2030;0;50;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/326621.png
+326657;Rod of Ages;2600;1820;0;45;350;0;0;500;0.0;0;0.0;Health;HealthRegen;SpellDamage;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/326657.png
+328020;Abyssal Mask;2850;1995;0;0;350;0;50;0;0.0;0;0.0;Health;SpellBlock;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/328020.png
+3302;Terminus;3000;2100;30;0;0;0;0;0;0.35;0;0.0;Damage;AttackSpeed;OnHit;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3302.png
+3340;Stealth Ward;0;0;0;0;0;0;0;0;0.0;0;0.0;Active;Jungle;Lane;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3340.png
+3363;Farsight Alteration;0;0;0;0;0;0;0;0;0.0;0;0.0;Active;Trinket;Vision;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3363.png
+3364;Oracle Lens;0;0;0;0;0;0;0;0;0.0;0;0.0;Active;Trinket;Vision;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3364.png
+3504;Ardent Censer;2200;1540;0;45;0;0;0;0;0.0;0;0.0;AttackSpeed;SpellDamage;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3504.png
+3508;Essence Reaver;2900;2030;55;0;0;0;0;0;0.0;0;0.25;Damage;CriticalStrike;ManaRegen;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3508.png
+3742;Dead Man's Plate;2900;2030;0;0;350;55;0;0;0.0;0;0.0;Health;Armor;Slow;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3742.png
+3748;Titanic Hydra;3300;2310;40;0;600;0;0;0;0.0;0;0.0;Health;HealthRegen;Damage;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3748.png
+3801;Crystalline Bracer;800;560;0;0;200;0;0;0;0.0;0;0.0;Health;HealthRegen;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3801.png
+3802;Lost Chapter;1200;840;0;40;0;0;0;300;0.0;0;0.0;SpellDamage;Mana;ManaRegen;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3802.png
+3803;Catalyst of Aeons;1300;910;0;0;300;0;0;375;0.0;0;0.0;Health;HealthRegen;Mana;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3803.png
+3814;Edge of Night;3000;2100;50;0;250;0;0;0;0.0;0;0.0;Health;Damage;ArmorPenetration;0.0;15.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3814.png
+3865;World Atlas;400;160;0;0;30;0;0;0;0.0;0;0.0;Health;ManaRegen;Vision;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3865.png
+3869;Celestial Opposition;400;160;0;0;200;0;0;0;0.0;0;0.0;Health;HealthRegen;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3869.png
+3870;Dream Maker;400;160;0;0;200;0;0;0;0.0;0;0.0;Health;HealthRegen;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3870.png
+3871;Zaz'Zak's Realmspike;400;160;0;0;200;0;0;0;0.0;0;0.0;Health;HealthRegen;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3871.png
+3876;Solstice Sleigh;400;160;0;0;200;0;0;0;0.0;0;0.0;Health;HealthRegen;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3876.png
+3877;Bloodsong;400;160;0;0;200;0;0;0;0.0;0;0.0;Health;HealthRegen;ManaRegen;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3877.png
+3916;Oblivion Orb;800;560;0;25;0;0;0;0;0.0;0;0.0;SpellDamage;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/3916.png
+4005;Imperial Mandate;2250;1575;0;60;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;CooldownReduction;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4005.png
+4401;Force of Nature;2800;1960;0;0;400;0;55;0;0.0;0;0.0;Health;SpellBlock;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4401.png
+4628;Horizon Focus;2700;1890;0;75;0;0;0;0;0.0;0;0.0;SpellDamage;AbilityHaste;None;25.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4628.png
+4629;Cosmic Drive;3000;2100;0;70;350;0;0;0;0.0;0;0.0;Health;SpellDamage;NonbootsMovement;25.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4629.png
+4630;Blighting Jewel;1100;770;0;25;0;0;0;0;0.0;0;0.0;MagicPenetration;SpellDamage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4630.png
+4632;Verdant Barrier;1600;1120;0;40;0;0;25;0;0.0;0;0.0;SpellBlock;SpellDamage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4632.png
+4633;Riftmaker;3100;2170;0;70;350;0;0;0;0.0;0;0.0;Health;SpellDamage;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4633.png
+4642;Bandleglass Mirror;900;630;0;20;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;CooldownReduction;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4642.png
+4645;Shadowflame;3200;2240;0;110;0;0;0;0;0.0;0;0.0;SpellDamage;MagicPenetration;None;0.0;0.0;15.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4645.png
+4646;Stormsurge;2800;1960;0;90;0;0;0;0;0.0;0;0.0;SpellDamage;GoldPer;NonbootsMovement;0.0;0.0;15.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/4646.png
+6333;Death's Dance;3300;2310;60;0;0;50;0;0;0.0;0;0.0;Armor;Damage;AbilityHaste;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6333.png
+6609;Chempunk Chainsword;3100;2170;45;0;450;0;0;0;0.0;0;0.0;Health;Damage;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6609.png
+6610;Sundered Sky;3100;2170;45;0;400;0;0;0;0.0;0;0.0;Health;Damage;CooldownReduction;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6610.png
+6616;Staff of Flowing Water;2250;1575;0;35;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6616.png
+6617;Moonstone Renewer;2200;1540;0;25;200;0;0;0;0.0;0;0.0;Health;SpellDamage;ManaRegen;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6617.png
+6620;Echoes of Helia;2200;1540;0;35;200;0;0;0;0.0;0;0.0;Health;SpellDamage;ManaRegen;20.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6620.png
+6621;Dawncore;2500;1750;0;45;0;0;0;0;0.0;0;0.0;SpellDamage;ManaRegen;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6621.png
+663039;Atma's Reckoning;2500;1250;0;0;500;0;0;0;0.0;0;0.2;Health;CriticalStrike;Lane;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663039.png
+663056;Demon King's Crown;2500;1000;0;0;0;0;0;0;0.0;0;0.0;Health;Armor;Damage;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663056.png
+663058;Shield of Molten Stone;2500;1000;0;0;250;80;0;0;0.0;0;0.0;Health;Armor;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663058.png
+663059;Cloak of Starry Night;2500;1000;0;0;250;0;60;0;0.0;0;0.0;Health;SpellBlock;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663059.png
+663060;Sword of the Divine;2500;1000;0;0;0;0;0;0;0.0;0;0.5;Damage;CriticalStrike;SpellDamage;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663060.png
+663064;Veigar's Talisman of Ascension;900;0;0;0;0;0;0;0;0.0;0;0.0;None;None;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663064.png
+6631;Stridebreaker;3300;2310;40;0;450;0;0;0;0.25;0;0.0;Health;Damage;AttackSpeed;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6631.png
+663146;Hextech Gunblade;2500;1250;45;90;0;0;0;0;0.0;0;0.0;Damage;LifeSteal;SpellDamage;0.0;0.0;0.0;15.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663146.png
+663172;Zephyr;2500;1250;0;0;0;0;0;0;0.4;0;0.0;AttackSpeed;CooldownReduction;OnHit;25.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663172.png
+663193;Gargoyle Stoneplate;2500;1000;0;0;0;55;55;0;0.0;0;0.0;SpellBlock;Armor;Active;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/663193.png
+664011;Sword of Blossoming Dawn;2500;1250;0;35;150;0;0;0;0.0;0;0.0;Health;SpellDamage;CooldownReduction;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/664011.png
+664644;Crown of the Shattered Queen;2500;1000;0;65;250;0;0;600;0.0;0;0.0;Health;SpellDamage;Mana;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/664644.png
+6653;Liandry's Torment;3000;2100;0;60;300;0;0;0;0.0;0;0.0;Health;SpellDamage;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6653.png
+6655;Luden's Echo;2750;1925;0;100;0;0;0;600;0.0;0;0.0;SpellDamage;Mana;CooldownReduction;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6655.png
+6657;Rod of Ages;2600;1820;0;45;350;0;0;500;0.0;0;0.0;Health;HealthRegen;SpellDamage;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6657.png
+6660;Bami's Cinder;900;630;0;0;150;0;0;0;0.0;0;0.0;Health;AbilityHaste;None;5.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6660.png
+6662;Iceborn Gauntlet;2900;2030;0;0;300;50;0;0;0.0;0;0.0;Health;Armor;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6662.png
+6664;Hollow Radiance;2800;1960;0;0;400;0;40;0;0.0;0;0.0;Health;SpellBlock;HealthRegen;10.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6664.png
+6665;Jak'Sho, The Protean;3200;2240;0;0;350;45;45;0;0.0;0;0.0;Health;SpellBlock;Armor;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6665.png
+6670;Noonquiver;1300;910;15;0;0;0;0;0;0.0;0;0.2;Damage;CriticalStrike;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6670.png
+667101;Gambler's Blade;2500;0;0;0;0;0;0;0;0.0;0;0.0;Damage;NonbootsMovement;MagicPenetration;10.0;15.0;15.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/667101.png
+667109;Cruelty;2500;1000;0;60;0;25;25;0;0.0;0;0.0;Armor;SpellDamage;MagicResist;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/667109.png
+667112;Flesheater;2500;1000;0;0;500;0;0;0;0.0;0;0.0;Damage;SpellDamage;MagicPenetration;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/667112.png
+6672;Kraken Slayer;3000;2100;45;0;0;0;0;0;0.4;0;0.0;Damage;AttackSpeed;OnHit;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6672.png
+6673;Immortal Shieldbow;3000;2100;55;0;0;0;0;0;0.0;0;0.25;Damage;CriticalStrike;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6673.png
+6675;Navori Flickerblade;2650;1855;0;0;0;0;0;0;0.4;0;0.25;CriticalStrike;AttackSpeed;NonbootsMovement;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6675.png
+6676;The Collector;3000;2100;50;0;0;0;0;0;0.0;0;0.25;Damage;CriticalStrike;ArmorPenetration;0.0;10.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6676.png
+667666;The Collector;3000;2100;50;0;0;0;0;0;0.0;0;0.25;Damage;CriticalStrike;ArmorPenetration;0.0;10.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/667666.png
+6690;Rectrix;775;543;15;0;0;0;0;0;0.0;0;0.0;Damage;NonbootsMovement;None;0.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6690.png
+6692;Eclipse;2900;2030;60;0;0;0;0;0;0.0;0;0.0;Damage;CooldownReduction;AbilityHaste;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6692.png
+6694;Serylda's Grudge;3000;2100;45;0;0;0;0;0;0.0;0;0.0;Damage;CooldownReduction;ArmorPenetration;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6694.png
+6695;Serpent's Fang;2500;1750;55;0;0;0;0;0;0.0;0;0.0;Damage;ArmorPenetration;None;0.0;15.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6695.png
+6696;Axiom Arc;2750;1925;55;0;0;0;0;0;0.0;0;0.0;Damage;ArmorPenetration;AbilityHaste;20.0;18.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6696.png
+6697;Hubris;3000;2100;60;0;0;0;0;0;0.0;0;0.0;Damage;Active;CooldownReduction;10.0;18.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6697.png
+6698;Profane Hydra;2850;1995;55;0;0;0;0;0;0.0;0;0.0;Damage;Active;CooldownReduction;10.0;18.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6698.png
+6699;Voltaic Cyclosword;3000;2100;55;0;0;0;0;0;0.0;0;0.0;Damage;Active;CooldownReduction;10.0;18.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6699.png
+6701;Opportunity;2700;1890;55;0;0;0;0;0;0.0;0;0.0;Damage;Active;NonbootsMovement;0.0;18.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/6701.png
+8010;Bloodletter's Curse;2900;2030;0;65;400;0;0;0;0.0;0;0.0;Health;SpellDamage;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/8010.png
+8020;Abyssal Mask;2650;1855;0;0;350;0;45;0;0.0;0;0.0;Health;SpellBlock;CooldownReduction;15.0;0.0;0.0;0.0;0.0;https://ddragon.leagueoflegends.com/cdn/16.1.1/img/item/8020.png

@@ -5,7 +5,7 @@ import os
 st.set_page_config(page_title="Base de Données", page_icon="📊", layout="wide")
 
 st.title("La Bibliothèque d'Objets")
-st.write("Voici les données brutes utilisées pour entraîner le modèle.")
+st.write("Voici la liste des objets actuellement disponibles en jeu.")
 
 fichier_csv = "présentation_objets_complets.csv" 
 
@@ -13,16 +13,15 @@ fichier_csv = "présentation_objets_complets.csv"
 if os.path.exists(fichier_csv):
     df = pd.read_csv(fichier_csv, sep=";") 
     
-    # 1. Quelques métriques sympas en haut
-    col1, col2, col3 = st.columns(3)
+    # 1. Quelques détails sympas en haut
+    col1, col2 = st.columns(2)
     col1.metric("Nombre d'objets", len(df))
     col2.metric("Prix Moyen", f"{df['Price'].mean():.0f} Gold")
-    col3.metric("Objets > 3000 Gold", len(df[df['Price'] > 3000]))
 
     st.divider()
 
     # 2. Filtres interactifs (classe de zinzin)
-    st.subheader("🔍 Filtrer les données")
+    st.subheader(" Filtrer les données")
     recherche = st.text_input("Rechercher un objet par nom :", "")
     
     if recherche:
@@ -68,11 +67,11 @@ if os.path.exists(fichier_csv):
             
             "AttackSpeed": st.column_config.NumberColumn(
                 "Vitesse d'Attaque",
-                format="%.0f %%", # Affiche maintenant "25 %" car on a fait *100
+                format="%.0f %%", 
                 help="Bonus de vitesse d'attaque"
             )
         }
     )
 else:
-    st.error(f"❌ Le fichier '{fichier_csv}' est introuvable à la racine du projet.")
+    st.error(f" Le fichier '{fichier_csv}' est introuvable à la racine du projet.")
     st.info("Vérifiez que vous avez bien généré le CSV depuis votre Notebook.")

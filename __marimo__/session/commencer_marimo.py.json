@@ -1,0 +1,112 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.18.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "423c83d2544636ec42d63676a44b3e1a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"projet-creation-dapp-sous-fond-de-web-scrapping\">\ud83d\udcca Projet : Cr\u00e9ation d'app sous fond de web scrapping \ud83c\udfe0</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "a4cd257e953406527d589e31c6c3199e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "83a452543f6c588c26183bc902c5bd64",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"parametres-du-bien\">Param\u00e8tres du bien :</h3></span><marimo-ui-element object-id='MJUe-0' random-id='8b50d234-ff6f-ad47-e915-bc8928e7471c'><marimo-slider data-initial-value='40' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Surface (m\u00b2)&lt;/span&gt;&lt;/span&gt;&quot;' data-start='10' data-stop='150' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><marimo-ui-element object-id='MJUe-1' random-id='5d1caf77-efba-d0dc-9ca5-6c064bba1c4f'><marimo-number data-initial-value='2' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Nombre de pi\u00e8ces&lt;/span&gt;&lt;/span&gt;&quot;' data-start='1' data-stop='10' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"prix-rationnel-estime-40-000\">\ud83d\udcb0 Prix Rationnel Estim\u00e9 : 40 000 \u20ac</h2></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "a57bf4fe5c81cfb4f6d3f6e7b58a0e3c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">C'\u00e9tait grave du blabal</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "dcd12e2d8a169912d5b5ae7c03ddefa1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">cr\u00e9ation du bouton de scrapp ??</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "f1426b54fe65ded92ad7f3d99f6bc19a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='ClAT-0' random-id='9e8e3071-5394-6f97-574e-5dec32c1e2ce'><marimo-button data-initial-value='0' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Lancer le Scraping \ud83d\ude80&lt;/span&gt;&lt;/span&gt;&quot;' data-kind='&quot;neutral&quot;' data-disabled='false' data-full-width='false'></marimo-button></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "f9d4c3cd026cdcad4fba5d0d030c168e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "d5480ab3c65ef51dd13716053e2b2775",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "The variable 'mo' was defined by another cell",
+          "traceback": []
+        }
+      ],
+      "console": []
+    }
+  ]
+}

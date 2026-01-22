@@ -1,0 +1,87 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.18.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1ccd253f4daf8f0e61d100cb2b73024a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "a5047bb43c4a879ede61f2b35ae5aa7f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "8dd934ca31d5797a8d4ff71831477955",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">\u2705 <strong>Mod\u00e8le charg\u00e9 et pr\u00eat.</strong></span></span>"
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "C:\\projet_scrap_devoir\\.venv\\Lib\\site-packages\\sklearn\\base.py:463: InconsistentVersionWarning: Trying to unpickle estimator LabelEncoder from version 1.7.2 when using version 1.8.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations\n  warnings.warn(\nC:\\projet_scrap_devoir\\.venv\\Lib\\site-packages\\sklearn\\base.py:463: InconsistentVersionWarning: Trying to unpickle estimator _BinMapper from version 1.7.2 when using version 1.8.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations\n  warnings.warn(\nC:\\projet_scrap_devoir\\.venv\\Lib\\site-packages\\sklearn\\base.py:463: InconsistentVersionWarning: Trying to unpickle estimator HistGradientBoostingClassifier from version 1.7.2 when using version 1.8.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:\nhttps://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations\n  warnings.warn(\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "93a40d2ef9a0c839711d39f6c39656b9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>\ud83d\udee1\ufe0f D\u00e9fense &amp; Vie</strong></span></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: wrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-8' random-id='f8b51092-740b-f89b-421a-bc0374240140'><marimo-number data-initial-value='650' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;PV (Base)&lt;/span&gt;&lt;/span&gt;&quot;' data-step='10' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-9' random-id='8c80a753-7fe8-e2f8-98ca-50e0e5b3bdc8'><marimo-number data-initial-value='114' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;PV / Niv&lt;/span&gt;&lt;/span&gt;&quot;' data-step='1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-10' random-id='c0322b30-a83f-ebd9-ecd8-a271e88d93c2'><marimo-number data-initial-value='3.5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Regen PV&lt;/span&gt;&lt;/span&gt;&quot;' data-step='0.1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-11' random-id='b8797542-5c9a-2e59-4f38-2e0222e047ec'><marimo-number data-initial-value='0.6' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Regen PV / Niv&lt;/span&gt;&lt;/span&gt;&quot;' data-step='0.1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element></div><div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: wrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-12' random-id='1188a2e6-d321-f464-33ab-a43cbb670bde'><marimo-number data-initial-value='30' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Armure&lt;/span&gt;&lt;/span&gt;&quot;' data-step='1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-13' random-id='2a35f098-5ca8-59c8-ceb2-dd9c45f7ae61'><marimo-number data-initial-value='3.5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Armure / Niv&lt;/span&gt;&lt;/span&gt;&quot;' data-step='0.1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-14' random-id='0e3cdd63-f4d7-627f-6596-bbb4b43fd6df'><marimo-number data-initial-value='30' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;R\u00e9s. Magique&lt;/span&gt;&lt;/span&gt;&quot;' data-step='1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-15' random-id='6ff177ab-65b5-600b-de4f-edaefdb8de7c'><marimo-number data-initial-value='0.5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;RM / Niv&lt;/span&gt;&lt;/span&gt;&quot;' data-step='0.1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element></div><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>\u2694\ufe0f Offensif &amp; Mouvement</strong></span></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: wrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-23' random-id='01d1ccba-ca20-60e7-c22b-92afe5c37103'><marimo-number data-initial-value='60' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;D\u00e9g\u00e2ts (AD)&lt;/span&gt;&lt;/span&gt;&quot;' data-step='1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-24' random-id='c783fb02-5495-a015-9669-ca4ad9382ba9'><marimo-number data-initial-value='3' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;AD / Niv&lt;/span&gt;&lt;/span&gt;&quot;' data-step='1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-25' random-id='64971b03-d3c9-ac9b-b9cc-c3194ae6ec1f'><marimo-number data-initial-value='0.625' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Vitesse Attaque&lt;/span&gt;&lt;/span&gt;&quot;' data-step='0.001' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-26' random-id='a08c7f42-bef9-9683-2e21-e4a8705ad011'><marimo-number data-initial-value='2.5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;AS / Niv (%)&lt;/span&gt;&lt;/span&gt;&quot;' data-step='0.1' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-27' random-id='5feea56e-1f28-b3ef-b7ed-f57be628d561'><marimo-number data-initial-value='175' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Port\u00e9e (Range)&lt;/span&gt;&lt;/span&gt;&quot;' data-step='25' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element><marimo-ui-element object-id='bkHC-28' random-id='ea01c5eb-be52-efb9-8272-e7211fbd453e'><marimo-number data-initial-value='340' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Vitesse D\u00e9pl. (MS)&lt;/span&gt;&lt;/span&gt;&quot;' data-step='5' data-debounce='false' data-full-width='false' data-disabled='false'></marimo-number></marimo-ui-element></div><span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>\ud83d\udcdd Notes Riot</strong></span></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-33' random-id='dc8f9041-8927-75d3-e091-aff2a7eeb433'><marimo-slider data-initial-value='5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Note Attaque&lt;/span&gt;&lt;/span&gt;&quot;' data-start='0' data-stop='10' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><marimo-ui-element object-id='bkHC-34' random-id='598f2af9-ceec-2a79-412b-66c3d8830215'><marimo-slider data-initial-value='5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Note D\u00e9fense&lt;/span&gt;&lt;/span&gt;&quot;' data-start='0' data-stop='10' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element><marimo-ui-element object-id='bkHC-35' random-id='577e56fe-2952-ebc6-7ffe-5b7f4110b556'><marimo-slider data-initial-value='5' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Note Magie&lt;/span&gt;&lt;/span&gt;&quot;' data-start='0' data-stop='10' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element></div></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "d171b6d12d8759cc2b5c744d034f7cbc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-callout-output data-html='&quot;&lt;span&gt;# \ud83c\udfaf R\u00f4le pr\u00e9dit : **Tank**&lt;/span&gt;&quot;' data-kind='&quot;success&quot;'></marimo-callout-output><marimo-accordion data-labels='[&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Voir les donn\u00e9es calcul\u00e9es (Lvl 10)&lt;/span&gt;&lt;/span&gt;&quot;]' data-multiple='false'><div><marimo-ui-element object-id='lEQa-0' random-id='1388bb62-fb5b-9e1a-932f-d13ca12ed340'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;AttackRange&#92;&quot;:175,&#92;&quot;MoveSpeed&#92;&quot;:340,&#92;&quot;HP&#92;&quot;:650,&#92;&quot;hpregen&#92;&quot;:3.5,&#92;&quot;Armor&#92;&quot;:30,&#92;&quot;AttackDamage&#92;&quot;:60,&#92;&quot;attackspeed&#92;&quot;:0.625,&#92;&quot;Spellblock&#92;&quot;:30,&#92;&quot;Prv_attack&#92;&quot;:5,&#92;&quot;Prv_defense&#92;&quot;:7,&#92;&quot;Prv_magic&#92;&quot;:5,&#92;&quot;Spellblock_lvl_10&#92;&quot;:34.5,&#92;&quot;attackspeed_lvl_10&#92;&quot;:23.125,&#92;&quot;AttackDamage_lvl_10&#92;&quot;:87,&#92;&quot;Armor_lvl_10&#92;&quot;:61.5,&#92;&quot;hpregen_lvl_10&#92;&quot;:8.899999999999999,&#92;&quot;hp_lvl_10&#92;&quot;:1676}]&quot;' data-total-rows='1' data-total-columns='17' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;AttackRange&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;MoveSpeed&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;HP&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;hpregen&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;Armor&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;AttackDamage&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;attackspeed&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;Spellblock&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;Prv_attack&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;Prv_defense&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;Prv_magic&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;Spellblock_lvl_10&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;attackspeed_lvl_10&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;AttackDamage_lvl_10&quot;,[&quot;integer&quot;,&quot;i64&quot;]],[&quot;Armor_lvl_10&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;hpregen_lvl_10&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;hp_lvl_10&quot;,[&quot;integer&quot;,&quot;i64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div></marimo-accordion></div>"
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "C:\\projet_scrap_devoir\\.venv\\Lib\\site-packages\\sklearn\\utils\\validation.py:2684: UserWarning: X has feature names, but HistGradientBoostingClassifier was fitted without feature names\n  warnings.warn(\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    }
+  ]
+}
