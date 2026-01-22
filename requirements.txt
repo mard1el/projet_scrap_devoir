@@ -8,3 +8,5 @@ requests
 beautifulsoup4
 joblib
 pyarrow
+plotly.express
+streamlit_extras.metric_cards
