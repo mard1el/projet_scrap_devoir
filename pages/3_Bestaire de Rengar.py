@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import os
-from streamlit_extras.metric_cards import style_metric_cards 
 import plotly.graph_objects as go
 
 st.set_page_config(page_title="Champions LoL", page_icon="🏆", layout="wide")
