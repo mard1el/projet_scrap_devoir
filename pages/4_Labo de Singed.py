@@ -11,19 +11,19 @@ STATS_CONFIG = {
     "HPperLevel":       (50.0,  150.0,  1.0,   114.0),
     "MoveSpeed":        (300.0, 450.0,  5.0,   345.0),
     "Armor":            (15.0,  50.0,  1.0,   38.0),
-    "ArmorperLevel":    (0.0,   10.0,   0.1,   3.5),
-    "Spellblock":       (20.0,  100.0,  1.0,   30.0), # C'est la Magic Resist
-    "SpellblockperLevel":(0.0,   5.0,    0.1,   0.5),
+    "ArmorperLevel":    (0.0,   10.0,   0.1,   4.8),
+    "Spellblock":       (20.0,  100.0,  1.0,   32.0), 
+    "SpellblockperLevel":(0.0,   5.0,    0.1,   2.05),
     "AttackRange":      (100.0, 850.0,  25.0,  175.0),
-    "hpregen":          (0.0,   20.0,   0.1,   5.0),
+    "hpregen":          (0.0,   20.0,   0.1,   3.0),
     "hpregenperlevel":  (0.0,   5.0,    0.1,   0.5),
     "AttackDamage":     (40.0,  100.0,  1.0,   60.0),
-    "AttackDamageperLevel":(0.0, 10.0,   0.1,   3.0),
-    "attackspeed":      (0.4,   1.5,    0.001, 0.625), # Très précis pour l'AS
+    "AttackDamageperLevel":(0.0, 10.0,   0.1,   5.0),
+    "attackspeed":      (0.4,   1.5,    0.001, 0.651), 
     "attackspeedperlevel":(0.0, 6.0,    0.1,   2.5),
-    'Prv_attack':(0.0, 10.0,   1.0,   5.0),
-    'Prv_defense':(0.0, 10.0,   1.0,   5.0),
-    'Prv_magic':(0.0, 10.0,   1.0,   5.0)
+    'Prv_attack':(0.0, 10.0,   1.0,   8.0),
+    'Prv_defense':(0.0, 10.0,   1.0,   4.0),
+    'Prv_magic':(0.0, 10.0,   1.0,   3.0)
 }
 
 #modèle
